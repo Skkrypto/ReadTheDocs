@@ -11,6 +11,20 @@ Skkrypto
 	:alt: Cute Pikachu
 	:align: center
 
+성균관대학교 블록체인 학회 Skkrypto 입니다. 
+
+.. note:: 
+	현재 사이트 보수중입니다. 양해 부탁드립니다.
+
+Skkrypto Sites
+--------------
+
+* `Homepage <https://skkrypto.io>`_
+
+* `Github <https://github.com/Skkrypto>`_
+
+* `Facebook <https://www.facebook.com/skkrypto/>`_
+
 Contents
 ========
 
@@ -21,7 +35,7 @@ Contents
 
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
