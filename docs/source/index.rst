@@ -6,9 +6,9 @@
 Skkrypto 
 ========
 
-.. image:: pika.jpg
+.. image:: logo.svg
 	:width: 120px
-	:alt: Cute Pikachu
+	:alt: Skkrypto
 	:align: center
 
 성균관대학교 블록체인 학회 Skkrypto 입니다. 
